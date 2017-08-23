@@ -1,0 +1,26 @@
+{
+  "name": "webvr-seed",
+  "version": "0.0.0",
+  "description": "A seed project for building webvr applications with redux.",
+  "main": "src/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z0d14c/webvr-seed.git"
+  },
+  "keywords": [
+    "webvr"
+  ],
+  "author": "Thomas Grice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z0d14c/webvr-seed/issues"
+  },
+  "homepage": "https://github.com/z0d14c/webvr-seed#readme"
+}
